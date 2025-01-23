@@ -1,0 +1,21 @@
+# venv
+venv/
+
+# Environment and configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# dataset-testing
+dataset-testing/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+.cache
