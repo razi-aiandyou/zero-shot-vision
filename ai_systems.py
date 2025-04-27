@@ -14,7 +14,7 @@ def classify_mercedes_car(base64_image):
        - Mercedes cars often have a distinctive front grille design. Many models feature horizontal slats with the logo prominently displayed in the center.
     3. Check the Headlights:
        - Mercedes-Benz cars usually have advanced and uniquely shaped headlights. Look for sleek, angular designs with integrated LED strips.
-    4. Inspect the Rear Design:
+    4. Inspect the Rear Design :
        - Look at the tail lights and rear bumper. Mercedes cars often have stylish, elongated tail lights with a modern, sleek appearance.
     5. Side Profile and Lines:
        - Mercedes cars tend to have elegant and smooth side profiles with flowing lines. Look for a sophisticated and aerodynamic shape.
